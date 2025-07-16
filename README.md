@@ -1,1 +1,1 @@
-# mani
+it my first repocitry
